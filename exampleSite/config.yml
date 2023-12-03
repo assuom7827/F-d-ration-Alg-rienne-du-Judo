@@ -46,9 +46,9 @@ params:
   - "/uploads/og.webp"
   label:
     title: _FAJ Fédération Algérienne Judo_
-    text: Bienvenu sur FAJ
-    #lightNavIcon: /uploads/sun.svg
-    #darkNavIcon: /uploads/zap.svg
+    # text: Bienvenu sur FAJ
+    # lightNavIcon: /uploads/sun.svg
+    # darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
