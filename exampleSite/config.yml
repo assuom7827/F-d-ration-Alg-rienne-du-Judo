@@ -2,6 +2,7 @@
 baseURL: https://stupendous-sopapillas-51f32b.netlify.app/
 # languageCode: en-us
 languageCode: ar-DZ
+languageDirection: rtl
 title: FAJ
 theme: piko
 paginate: "9"
