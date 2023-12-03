@@ -39,16 +39,16 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
+  author: Dr. Mohammed MOUSSA
   description: Your website description
   math: false
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
-    text: Welcome to Piko
-    lightNavIcon: /uploads/sun.svg
-    darkNavIcon: /uploads/zap.svg
+    title: _FAJ Fédération Algérienne Judo_
+    text: Bienvenu sur FAJ
+    #lightNavIcon: /uploads/sun.svg
+    #darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
     iconWIdth: "35"
   comments: true
