@@ -46,7 +46,7 @@ params:
   - "/uploads/og.webp"
   label:
     title: _FAJ Fédération Algérienne Judo_
-    # text: Bienvenu sur FAJ
+    text: Bienvenu sur FAJ
     # lightNavIcon: /uploads/sun.svg
     # darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
@@ -86,9 +86,9 @@ params:
     heroBackgroundImage: "/uploads/FAJUDOOOO.webp" 
     # Blog Section
     disableBlogSection: false
-    blogTitle: Latest Posts
+    blogTitle: أخبار
     blogDescription: This is my latest blog posts
-    seeMoreText: More Posts
+    seeMoreText: المزيد
     # About Section    
     disableAboutSection: true
     aboutTitle: About
