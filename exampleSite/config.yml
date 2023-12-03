@@ -75,7 +75,7 @@ params:
     disableHeroSection: false
     heroUpperTitle: 
     heroTitle: Piko
-    heroDescription: Lightweight theme for your every need
+    heroDescription: Fédération Algérienne du Judo
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
     heroCTASecondaryText: Contact Me
@@ -144,11 +144,11 @@ menus:
     pre: mail
     url: "/contact"
     weight: "40"
-  - name: Github
-    title: 
-    pre: github
-    url: https://github.com/heksagonnet/piko
-    weight: "50"
+  #- name: Github
+  #  title: 
+  #  pre: github
+  #  url: https://github.com/heksagonnet/piko
+  #  weight: "50"
   search: # Search page's quick links
   - name: Categories
     title: Categories
