@@ -4,7 +4,7 @@ languageCode: en-us
 title: FAJ
 theme: piko
 paginate: "9"
-copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
+copyright: Fédération Algérienne de Judo (Conception Dr.Adel Belkadi)
 googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
 enableRobotsTXT: true
 buildDrafts: false
