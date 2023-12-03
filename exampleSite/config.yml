@@ -90,7 +90,7 @@ params:
     blogDescription: This is my latest blog posts
     seeMoreText: More Posts
     # About Section    
-    disableAboutSection: false
+    disableAboutSection: true
     aboutTitle: About
     aboutDescription: Just something about me
     aboutImgUrl: "/uploads/self.webp"
